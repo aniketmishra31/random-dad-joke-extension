@@ -11,8 +11,27 @@ body{
 }
 .box{
     text-align: center;
-    margin: 20% auto ;
+    margin: 20% auto 10%;
     height: auto;
     width: 20rem;
     font-size: 170%;
+}
+
+/* THUMBS UP */
+
+.fa {
+    font-size: 35px;
+    cursor: pointer;
+    user-select: none;
+    color: white;
+
+}
+
+.fa:hover {
+    color: #5F8D4E;
+}
+/* dislike  */
+.dislike
+{
+    padding: 1rem;
 }
