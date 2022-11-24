@@ -1,0 +1,18 @@
+body{
+    justify-content: center;
+    padding: 10% auto;
+    background-color: #372948;
+    text-align: center;
+}
+#jokeElement{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    color: antiquewhite;
+}
+.box{
+    text-align: center;
+    margin: 20% auto ;
+    height: auto;
+    width: 20rem;
+    font-size: 170%;
+}
